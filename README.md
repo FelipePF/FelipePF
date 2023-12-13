@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
-<a href="https://imgur.com/LRiGq8k"><img src="https://i.imgur.com/LRiGq8k.png" title="source: imgur.com" /></a>
-
-<p align="center">"O único modo de fazer um ótimo trabalho é amar o que você faz." - Steve Jobs. <br><br> Profissional especializado em Linux, especialmente com experiência em sistemas Debian, amplo conhecimento em ferramentas como Krita e LibreOffice, e habilidades avançadas em linguagens de programação. Atualmente, estou buscando aprimorar meu conjunto de habilidades com foco em segurança cibernética e ética hacker, com planos de obter certificações LPI e aprofundar minha expertise como SysAdmin Linux. Sou dedicado à aprendizagem contínua, dedicando meu tempo livre para estudar novas tecnologias, ler sobre tendências na área e desfrutar de jogos para relaxamento. Minha abordagem proativa e paixão por desafios tornam-me um profissional em constante evolução.</p>&nbsp;
 
 ## My Technical Skills
 
@@ -42,6 +39,11 @@
 &nbsp;
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelipePF&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+
+<a href="https://imgur.com/LRiGq8k"><img src="https://i.imgur.com/LRiGq8k.png" title="source: imgur.com" /></a>
+
+<p align="center">"O único modo de fazer um ótimo trabalho é amar o que você faz." - Steve Jobs. <br><br> Profissional especializado em Linux, especialmente com experiência em sistemas Debian, amplo conhecimento em ferramentas como Krita e LibreOffice, e habilidades avançadas em linguagens de programação. Atualmente, estou buscando aprimorar meu conjunto de habilidades com foco em segurança cibernética e ética hacker, com planos de obter certificações LPI e aprofundar minha expertise como SysAdmin Linux. Sou dedicado à aprendizagem contínua, dedicando meu tempo livre para estudar novas tecnologias, ler sobre tendências na área e desfrutar de jogos para relaxamento. Minha abordagem proativa e paixão por desafios tornam-me um profissional em constante evolução.</p>&nbsp;
+
 
 ## Contacts:
 
