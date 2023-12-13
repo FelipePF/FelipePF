@@ -41,7 +41,11 @@
 &nbsp;
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelipePF&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=FelipePF&theme=dark&locale=pt_BR" alt="GitHub Streak" /> </a>
+</p>
+
 
 <a href="https://imgur.com/LRiGq8k"><img src="https://i.imgur.com/LRiGq8k.png" title="source: imgur.com" /></a>
 
