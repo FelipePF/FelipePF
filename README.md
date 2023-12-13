@@ -2,6 +2,8 @@
 
 ## My Technical Skills
 
+<img src="https://wallpaperaccess.com/full/2575944.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 #### Master Skill:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
@@ -9,9 +11,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)&nbsp;
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)&nbsp;
-
-
-<img src="https://wallpaperaccess.com/full/2575944.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Intermediate Skill:
 
