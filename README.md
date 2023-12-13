@@ -1,9 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}" />
-&nbsp;&nbsp;&nbsp;
+<a href="https://imgur.com/LRiGq8k"><img src="https://i.imgur.com/LRiGq8k.png" title="source: imgur.com" /></a>
 
 <p align="center">"O único modo de fazer um ótimo trabalho é amar o que você faz." - Steve Jobs. <br><br> Profissional especializado em Linux, especialmente com experiência em sistemas Debian, amplo conhecimento em ferramentas como Krita e LibreOffice, e habilidades avançadas em linguagens de programação. Atualmente, estou buscando aprimorar meu conjunto de habilidades com foco em segurança cibernética e ética hacker, com planos de obter certificações LPI e aprofundar minha expertise como SysAdmin Linux. Sou dedicado à aprendizagem contínua, dedicando meu tempo livre para estudar novas tecnologias, ler sobre tendências na área e desfrutar de jogos para relaxamento. Minha abordagem proativa e paixão por desafios tornam-me um profissional em constante evolução.</p>&nbsp;
-
 
 ## My Technical Skills
 
@@ -39,18 +38,10 @@
 ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white)&nbsp;
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)&nbsp;
 
-
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
 &nbsp;
 &nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelipePF&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 ## Contacts:
 
@@ -61,4 +52,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
