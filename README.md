@@ -11,7 +11,7 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://wallpaperaccess.com/full/2575944.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Intermediate Skill:
 
