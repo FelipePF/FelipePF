@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
-<p align="center">"O único modo de fazer um ótimo trabalho é amar o que você faz." - Steve Jobs. <br><br>&nbsp;
 
 ## My Technical Skills
 
