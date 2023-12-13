@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://gists-readme.yizack.com/api?user={username}" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">"O único modo de fazer um ótimo trabalho é amar o que você faz." - Steve Jobs. <br><br> Profissional especializado em Linux, especialmente com experiência em sistemas Debian, amplo conhecimento em ferramentas como Krita e LibreOffice, e habilidades avançadas em linguagens de programação. Atualmente, estou buscando aprimorar meu conjunto de habilidades com foco em segurança cibernética e ética hacker, com planos de obter certificações LPI e aprofundar minha expertise como SysAdmin Linux. Sou dedicado à aprendizagem contínua, dedicando meu tempo livre para estudar novas tecnologias, ler sobre tendências na área e desfrutar de jogos para relaxamento. Minha abordagem proativa e paixão por desafios tornam-me um profissional em constante evolução.</p>&nbsp;
