@@ -20,7 +20,7 @@
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Gnu Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&n<br>bsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 
 
@@ -39,7 +39,9 @@
 
 &nbsp;
 &nbsp;
+
 <br>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=FelipePF&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /> </a>
