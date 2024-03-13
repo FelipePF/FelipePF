@@ -2,7 +2,7 @@
 
 ## My Technical Skills
 
-<img src="https://wallpaperaccess.com/full/2575944.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.imgur.com/wkno290.jpeg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Master Skill:
 
@@ -42,9 +42,18 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=FelipePF&theme=dark&locale=pt_BR" alt="GitHub Streak" /> </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=FelipePF&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /> </a>
 </p>
+<br>
+<br>
 
+
+<div style="display: inline_block" align="center">
+  <a href="https://github.com/FelipePF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePF&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div><br>
 
 <a href="https://imgur.com/LRiGq8k"><img src="https://i.imgur.com/LRiGq8k.png" title="source: imgur.com" /></a>
 
