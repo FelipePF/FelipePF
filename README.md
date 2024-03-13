@@ -40,13 +40,11 @@
 &nbsp;
 &nbsp;
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=FelipePF&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /> </a>
 </p>
 <br>
-<br>
-
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/FelipePF">
