@@ -20,7 +20,7 @@
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Gnu Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&n<br>bsp;
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 
 
@@ -53,7 +53,7 @@
   </a>
 </div><br>
 
-<a href="https://imgur.com/LRiGq8k"><img src="https://i.imgur.com/LRiGq8k.png" title="source: imgur.com" /></a>
+<!--  <a href="https://imgur.com/LRiGq8k"><img src="https://i.imgur.com/LRiGq8k.png" title="source: imgur.com" /></a> -->
 
 <p align="center"> Profissional especializado em Linux, especialmente com experiência em sistemas Debian, amplo conhecimento em ferramentas como Krita e LibreOffice, e habilidades avançadas em linguagens de programação. Atualmente, estou buscando aprimorar meu conjunto de habilidades com foco em segurança cibernética e ética hacker, com planos de obter certificações LPI e aprofundar minha expertise como SysAdmin Linux. Sou dedicado à aprendizagem contínua, dedicando meu tempo livre para estudar novas tecnologias, ler sobre tendências na área e desfrutar de jogos para relaxamento. Minha abordagem proativa e paixão por desafios tornam-me um profissional em constante evolução.</p>&nbsp;
 
@@ -67,4 +67,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/> -->
