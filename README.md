@@ -40,7 +40,7 @@
 &nbsp;
 &nbsp;
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=FelipePF&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /> </a>
 </p>
