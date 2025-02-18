@@ -2,7 +2,6 @@
 
 ## My Technical Skills
 
-<img src="https://i.imgur.com/wkno290.jpeg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Master Skill:
 
@@ -56,7 +55,7 @@
 
 <!--  <a href="https://imgur.com/LRiGq8k"><img src="https://i.imgur.com/LRiGq8k.png" title="source: imgur.com" /></a> -->
 
-<p align="center"> Profissional especializado em Linux, especialmente com experiência em sistemas Debian, amplo conhecimento em ferramentas como Krita e LibreOffice, e habilidades avançadas em linguagens de programação. Atualmente, estou buscando aprimorar meu conjunto de habilidades com foco em segurança cibernética e ética hacker, com planos de obter certificações LPI e aprofundar minha expertise como SysAdmin Linux. Sou dedicado à aprendizagem contínua, dedicando meu tempo livre para estudar novas tecnologias, ler sobre tendências na área e desfrutar de jogos para relaxamento. Minha abordagem proativa e paixão por desafios tornam-me um profissional em constante evolução.</p>&nbsp;
+<p align="center"> Profissional especializado em Linux com certificação pela 4Linux, especialmente com experiência em sistemas Debian, amplo conhecimento desde conhecimento em Hardware até planejamento de tarefas e LibreOffice, e habilidade avançada em linguagem de programação de Script Shell para Servidores. Atualmente, estou buscando aprimorar meu conjunto de habilidades com foco em segurança cibernética, redes e Servidor, com planos de obter certificações LPI e aprofundar minha expertise como SysAdmin Linux. Sou dedicado à aprendizagem contínua, dedicando meu tempo livre para estudar novas tecnologias e ler sobre tendências na área. Minha abordagem proativa e paixão por desafios e a busca em superá-los tornam-me um profissional em constante evolução.</p>&nbsp;
 
 ## Contacts:
 
